@@ -22,7 +22,6 @@ https://crackypedia.cracky-chan.tk/crackylikes-2006-03-02/
 https://crackypedia.cracky-chan.tk/crackylikes/
 https://crackypedia.cracky-chan.tk/credits/
 https://crackypedia.cracky-chan.tk/fanfic/
-https://crackypedia.cracky-chan.tk/fanfic/raptor/
 https://crackypedia.cracky-chan.tk/files/
 https://crackypedia.cracky-chan.tk/misc/
 https://crackypedia.cracky-chan.tk/original-2006-02-16/
@@ -31,4 +30,5 @@ https://crackypedia.cracky-chan.tk/php-art/
 https://crackypedia.cracky-chan.tk/php-original/
 https://crackypedia.cracky-chan.tk/robots.txt
 https://crackypedia.cracky-chan.tk/sitemap.txt
+https://crackypedia.cracky-chan.tk/sitemap.xml
 https://crackypedia.cracky-chan.tk/this/
