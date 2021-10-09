@@ -1,3 +1,4 @@
-﻿Sitemap: https://cracky-chan.tk/sitemap.txt
+﻿
+Sitemap: https://cracky-chan.tk/sitemap.txt
 
 #cracky is catharsis
