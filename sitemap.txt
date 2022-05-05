@@ -7,3 +7,6 @@ https://angelesdelabismo.com/response-from-her.txt
 https://angelesdelabismo.com/robots.txt
 https://angelesdelabismo.com/sitemap.txt
 https://meme.angelesdelabismo.com/
+https://meme.angelesdelabismo.com/cgi-bin/classic.rb
+https://meme.angelesdelabismo.com/robots.txt
+https://meme.angelesdelabismo.com/sitemap.txt
