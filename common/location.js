@@ -6,8 +6,6 @@ async function main() {
 	window.history.replaceState({}, document.title, mylocation);
 }
 
-console.log("Script invoked with " + document.currentScript.getAttribute('location'));
-
 var mylocation = document.currentScript.getAttribute('location');
 
 if (mylocation == null) {
