@@ -3,7 +3,7 @@ var nextimg;
 
 function bleed() {
 	$('body').css("animation", "argh-my-eyes1 12s infinite");
-  $('#header').css("animation", "argh-my-eyes1 10s infinite");
+	$('#header').css("animation", "argh-my-eyes1 10s infinite");
 	$('#me1').css("animation", "argh-my-eyes1 8s infinite");
 	$('#me2').css("animation", "argh-my-eyes1 6s infinite");
 	console.log("Activated eyebleed (why did you do that)");
